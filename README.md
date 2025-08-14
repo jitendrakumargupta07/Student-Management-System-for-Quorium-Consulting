@@ -15,13 +15,19 @@ Admin Dashboard is a responsive web application built with React.js and Ant Desi
 
 Check out the [demo site](https://admindashboard-zfhw.onrender.com/) to see the Admin Dashboard in action.
 
-## Installation
+# Student Management Dashboard
 
-To run the Admin Dashboard locally, follow these steps:
+A responsive React dashboard for managing student data with a searchable list, dashboard stats, and add student form.
 
-1. Navigate to the project directory: `cd Admin-Dashboard-React`
-2. Install the dependencies: `npm install`
-3. Start the development server: `npm start`
+## Features
+- Dashboard with total student count
+- Searchable student list
+- Add Student form
+
+## Setup
+1. Clone the repo
+2. Install dependencies: `npm install`
+3. Start dev server: `npm run dev`
 
 ## Usage
 
