@@ -1,3 +1,4 @@
+#index
 import { Route, Routes } from 'react-router-dom'
 import { DashBoard } from '../../Pages/Dashboard'
 import { Inventory } from '../../Pages/Inventory'
