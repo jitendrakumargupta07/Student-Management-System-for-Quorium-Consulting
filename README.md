@@ -41,15 +41,6 @@ A responsive React dashboard for managing student data with a searchable list, d
 - Ant Design
 - Chart.js
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Credits
-
-- The avatar, mail icon, and notification icons are sourced from [Ant Design Icons](https://ant.design/components/icon/).
-- Special thanks to the contributors and developers of React.js, Ant Design, and Chart.js for providing the tools and components that make this Admin Dashboard possible.
-
 ## Screenshots
 ![Orders Page](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/aa5cb495-af15-42d9-b875-6663b3722758)
 ![Customers Page](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/efd81ebc-75dd-438d-a5f6-48cb1ab30236)
