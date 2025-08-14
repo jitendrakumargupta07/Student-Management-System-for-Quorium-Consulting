@@ -19,10 +19,9 @@ Check out the [demo site](https://admindashboard-zfhw.onrender.com/) to see the 
 
 To run the Admin Dashboard locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/PrathameshDhande22/Admin-Dashboard-React.git`
-2. Navigate to the project directory: `cd Admin-Dashboard-React`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
+1. Navigate to the project directory: `cd Admin-Dashboard-React`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm start`
 
 ## Usage
 
@@ -51,4 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ![DashBoard HomePage](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/e28f06ac-aaad-4e4c-af71-5da104e22ac1)
 ![Inventory Page](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/02a1b6ae-12f8-4521-8260-5c47910aaa2e)
 
-## Author : Prathamesh Dhande
+## Author : Jitendra Kumar Gupta
